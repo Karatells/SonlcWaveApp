@@ -1,0 +1,5 @@
+Initial release:
+- OpenSubsonic, Navidrome, Jellyfin, and local folder playback
+- Offline download vault & 10-band studio DSP equalizer
+- Dual-pane landscape turntable & console layout
+- Vinyl rhythm pulse waves & secret analog oscilloscope lab

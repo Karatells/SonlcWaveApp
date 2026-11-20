@@ -1,0 +1,10 @@
+SonicWave Studio is an open-source, privacy-first Hi-Res audio player for Navidrome, OpenSubsonic, Jellyfin, and local audio folders.
+
+Features:
+* Lossless & Hi-Res streaming (FLAC, ALAC, OPUS, M4A, MP3)
+* Offline vault with pinned downloads and automatic cache management
+* 10-band graphic equalizer, Bass Boost, Virtualizer, and ReplayGain
+* Animated vinyl turntable player with synced LRC lyrics and waveform seekbar
+* Dual-pane landscape studio console and navigation rail
+* Multi-server profiles with LAN/WAN fallback and QR config sharing
+* Zero telemetry, no ads, no proprietary tracking

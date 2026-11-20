@@ -1,0 +1,1 @@
+Hi-Res аудиоплеер для OpenSubsonic и Jellyfin с офлайн-кэшем и 10-полосным DSP.

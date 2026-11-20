@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Внешнее неоновое кольцо SonicWave -->
+    <path
+        android:pathData="M54,23 A31,31 0 1,1 53.99,23 Z"
+        android:strokeWidth="2.8"
+        android:fillColor="#00000000">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="23"
+                android:startY="23"
+                android:endX="85"
+                android:endY="85"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FF00F0FF" />
+                <item android:offset="0.5" android:color="#FF8A5CFF" />
+                <item android:offset="1.0" android:color="#FFFF3DF0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 7 капсул звуковой волны (Equalizer Waveform) -->
+    <path
+        android:pathData="M33,49 L33,59 M40,43 L40,65 M47,36 L47,72 M54,31 L54,77 M61,38 L61,70 M68,44 L68,64 M75,50 L75,58"
+        android:strokeWidth="4.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="31"
+                android:startY="31"
+                android:endX="77"
+                android:endY="77"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FF00F5FF" />
+                <item android:offset="0.5" android:color="#FFA770FF" />
+                <item android:offset="1.0" android:color="#FFFF4CF4" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>

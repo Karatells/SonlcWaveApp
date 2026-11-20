@@ -1,0 +1,23 @@
+Categories:
+  - Multimedia
+License: MIT
+SourceCode: https://github.com/Karatells/SonlcWaveApp
+IssueTracker: https://github.com/Karatells/SonlcWaveApp/issues
+
+AutoName: SonicWave Studio
+
+RepoType: git
+Repo: https://github.com/Karatells/SonlcWaveApp.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: v1.0.0
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1

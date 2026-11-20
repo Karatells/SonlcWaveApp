@@ -1,0 +1,1 @@
+Hi-Res OpenSubsonic & Jellyfin music player with offline vault and 10-band DSP.
